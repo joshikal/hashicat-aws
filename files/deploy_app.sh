@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Cat Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. SF Atalanta Replace this text with your own.
+  Welcome to ${PREFIX}'s app. SF Atalanta Terraform workshop Replace this text with your own.
   <!-- END -->
 
   </div>
